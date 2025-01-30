@@ -52,7 +52,7 @@ export default function Home() {
           <div className="relative inline-block mb-8">
             <div className="absolute inset-0 blur-3xl bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 opacity-75 animate-pulse" />
             <h1 className="relative text-7xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 mb-6 animate-text-shimmer">
-              AI Study Planner
+              SmartStudyPro
             </h1>
           </div>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto mb-8 animate-fade-in">

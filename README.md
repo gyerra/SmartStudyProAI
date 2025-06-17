@@ -16,7 +16,18 @@ Model Used: LLaMA 3 (70B, 8192 context window)
 
 📂 Project Structure
 
-<pre><code> ``` /ai-study-planner │── /app │ ├── /api │ │ ├── /study-planner # API route for LLM interaction │ │ │ ├── route.js # API logic and request handling │ ├── page.js # Frontend with input fields & buttons │── .env # Environment variables (API keys, etc.) │── package.json # Dependencies & scripts │── README.md # Project documentation ``` </code></pre>
+```
+/ai-study-planner
+│── /app
+│   ├── /api
+│   │   ├── /study-planner        # API route for LLM interaction
+│   │   │   ├── route.js          # API logic and request handling
+│   ├── page.js                   # Frontend with input fields & buttons
+│── .env                          # Environment variables (API keys, etc.)
+│── package.json                  # Dependencies & scripts
+│── README.md                     # Project documentation
+```
+
 
 🚀 Features
 
